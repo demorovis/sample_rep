@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">plus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text">alibaba</string>
+    <string name="button_word">obie jubie</string>
+    <string name="ac_search">search me bruh</string>
+
+</resources>
